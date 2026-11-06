@@ -1,0 +1,1 @@
+# Validaciones y errores compartidos
